@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Studying [React](https://ru.reactjs.org/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created by learning React with ["Tutorial: Intro to React"](https://ru.reactjs.org/tutorial/tutorial.html).
 
 ## Available Scripts
 
